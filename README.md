@@ -9,7 +9,8 @@
 An end-to-end deep learning solution designed to help farmers and researchers identify plant diseases with high precision. Leveraging **EfficientNet** architectures, this project provides a scalable pipeline from model training to real-time inference via a web interface.
 
 <p align="center">
-  <img src="./Images/bg.png" alt="Plant Disease Classification Banner" width="100%">
+  <img src=".image.png
+    " alt="Plant Disease Classification Banner" width="100%">
 </p>
 
 ---
